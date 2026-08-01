@@ -7,5 +7,5 @@ An enhanced binary reader and writer for .NET. This is mostly a personal project
 
 ## Changelog
 
-### 1.0.1
+### 0.0.1
 - Make source paths relative for cleaner stack traces
